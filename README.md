@@ -7,15 +7,15 @@ The goal was to identify the best-performing model while addressing the challeng
 
 **Models Evaluated:**
 
-Linear Regression
-Lasso Regression
-Ridge Regression
-K-Nearest Neighbors
-Decision Tree
-Random Forest
-AdaBoost
-Gradient Boosting
-XGBoost
+- Linear Regression
+- Lasso Regression
+- Ridge Regression
+- K-Nearest Neighbors
+- Decision Tree
+- Random Forest
+- AdaBoost
+- Gradient Boosting
+- XGBoost
 
 **Key Challenges:**
 
